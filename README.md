@@ -8,7 +8,7 @@ Demonstração de como fazer a comunicação entre uma aplicação web e um disp
 
 1. A aplicação web se comunica com a aplicação desktop através do protocolo HTTP;
 2. A aplicação desktop se comunica com o dispositivo SAT através da DLL e retorna os dados para a aplicação web através do protocolo HTTP;
-3. A aplicação web pode então enviar os dados retornados para o servidor web remoto através do protocolo HTTP;
+3. A aplicação web pode então enviar os dados retornados para o servidor web remoto através do protocolo HTTP.
 
 ![](img/fluxo.jpg)
 
@@ -27,7 +27,8 @@ A aplicação desktop foi escrita em C#, utilizando a biblioteca [EmbedIO](https
 
 ### Uso
 
-Editar o arquivo [LocalWebServer.dll.config](desktop/dist/windows/x86/LocalWebServer.dll.config) e definir a porta que será utilizada e o endereço base da aplicação web. Basta então rodar o [LocalWebServer.exe](desktop/dist/windows/x86/LocalWebServer.exe) e deixá-lo em execução.
+- Editar o arquivo [LocalWebServer.dll.config](desktop/dist/windows/x86/LocalWebServer.dll.config) e definir a porta que será utilizada e o endereço base da aplicação web; 
+- Executar o arquivo [LocalWebServer.exe](desktop/dist/windows/x86/LocalWebServer.exe) e deixá-lo em execução.
 
 ### Projeto
 
