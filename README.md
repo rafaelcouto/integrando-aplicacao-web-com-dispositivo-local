@@ -45,7 +45,7 @@ A aplicação web é uma página simples, utilizando HTML, CSS (Bootstrap) e Jav
 
 ### Uso
 
-Basta acessar o arquivo [index.html](web/index.html) em algum servidor web. Se preferir, você também pode acessar a aplicação web através [deste link](https://artigos74.rafaelcouto.com.br/integrando-aplicacao-web-com-dispositivo-local/).
+Basta acessar o arquivo [index.html](web/index.html) em algum servidor web. Se preferir, você também pode acessar a aplicação web através [deste link](https://artigos.rafaelcouto.com.br/integrando-aplicacao-web-com-dispositivo-local/).
 
 ## Mais informações
 
